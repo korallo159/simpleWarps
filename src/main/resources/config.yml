@@ -1,0 +1,8 @@
+nullwarps: 'Aktualnie nie ma ustawionego zadnego warpu!'
+wrongwarp: ' Nie istnieje'
+successteleport: 'Zostałeś przeteleportowany do: '
+setwarpusage: 'Poprawne uzycie /setwarp <nazwa warpu>'
+delwarpusage: 'Poprawne uzycie /delwarp <nazwa warpa>'
+warpset: 'Ustawiłeś warp: '
+warplist: 'Lista warpow: '
+warpdeleted: 'Warp usunięty.'

@@ -1,0 +1,26 @@
+name: easyWarp
+version: ${project.version}
+main: koral.easywarp.easyWarp
+api-version: 1.13
+authors: [koral]
+description: simple up-to-date 1.16 warps
+commands:
+  setwarp:
+    permission: easywarp.setwarp
+  warp:
+    permission: easywarp.warp
+  delwarp:
+    permission: easywarp.delwarp
+  warplist:
+    permission: easywarp.warplist
+permissions:
+  easywarp.setwarp:
+    default: op
+  easywarp.delwarp:
+    default: op
+  easywarp.warplist:
+    default: op
+  easywarp.warp:
+    default: op
+
+
